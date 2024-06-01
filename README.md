@@ -2,7 +2,7 @@
 
 ## Нужно было переписать модели сделав их код более эффективным, читаемым и безопасным и написать функции query_users и query_for_user
 
-В репозитории представлены улучшенные модели в файле `models.py` и реализация функций `query_users` и `query_for_user` в файле `utils.py`.
+В репозитории представлены улучшенные модели в файле [models.py](https://github.com/Alvsok/test_tasks_welltory/blob/main/src/models.py) и реализация функций `query_users` и `query_for_user` в файле [utils.py](https://github.com/Alvsok/test_tasks_welltory/blob/main/src/utils.py).
 
 # Иллюстрация работы кода
 
